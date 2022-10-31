@@ -1,0 +1,57 @@
+table{
+
+        margin-left: 35%;
+
+}
+
+td{
+  padding: 5px;
+}
+
+a{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+div.contenedor{
+    background-color: plum;
+    padding: 3px;
+}
+
+td:hover{
+    background-color: blue  ;
+  }
+
+  div{
+    padding: 3%;
+  }
+
+  p{
+    font-size: 20px;
+  }
+
+  strong{
+    font-size: xx-large;
+    
+  }
+  
+  #u_1{
+    color:limegreen;
+  }
+  #b_1{
+    color: red;
+  }
+    #span_1{
+    text-decoration: overline   underline;
+    }
+    #u_2{
+        color: red;
+    }
+    #span_2{
+    color: blue;
+    font-size: larger;
+    font-weight: bold;
+    }
+
+    
