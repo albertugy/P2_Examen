@@ -1,47 +1,81 @@
-table{
-
-        margin-left: 35%;
-
-}
-
-td{
-  padding: 5px;
-}
-
-a{
-    font-size: 30px;
-    color: white;
-    text-decoration: none;
-}
-
-div.contenedor{
-    background-color: plum;
-    padding: 3px;
-}
-
-td:hover{
-    background-color: blue  ;
-  }
-
-  div{
-    padding: 3%;
-  }
-
-  p{
-    font-size: 20px;
-  }
-
-  strong{
-    font-size: xx-large;
+    body{
+            margin-left:5%;
+            margin-right: 5%;
+    }
     
-  }
+    h2{
+        color:grey;
+    }
+
+    table.tabla{
+
+            margin-left: 35%;
+
+    }
+
+    td.tabla1{
+    padding: 5px;
+    }
+
+    a{
+        font-size: 30px;
+        color: white;
+        text-decoration: none;
+    }
+
+    div.contenedor{
+        background-color: plum;
+        padding: 3px;
+    }
+
+    td.tabla1:hover{
+        background-color: blue  ;
+    }
+
+    div{
+        padding: 3%;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    strong{
+        font-size: xx-large;
+        
+    }
+
+    li.li_table1{
+        list-style-type: square;
+        font-size: 20px;
+        color: grey;
+    }
+
+    td.td_table1{
+        border: dotted  1px;
+    }
+
+    b.td_table1{
+        font-size: larger;
+        font-weight: bold;
+    }
+
+    #tr_titulo{
+        text-align: center;
+        border: 1px dotted #000;
+        color:  red;
+        text-transform: uppercase;
+        font-style: oblique;
+        
+    }
+ 
   
-  #u_1{
-    color:limegreen;
-  }
-  #b_1{
-    color: red;
-  }
+    #u_1{
+        color:limegreen;
+    }
+    #b_1{
+        color: red;
+    }
     #span_1{
     text-decoration: overline   underline;
     }
@@ -54,4 +88,16 @@ td:hover{
     font-weight: bold;
     }
 
+    #table_1{
+    background-color: yellow;
+    border:dotted;
+    border-width: 1px;
+    border-collapse: collapse;
+    border-bottom: red;
+    border-bottom-style:dashed;
+    border-bottom-width: 1px;
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    }
     
